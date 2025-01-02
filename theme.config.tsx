@@ -1,16 +1,16 @@
 import { DocsThemeConfig } from 'nextra-theme-docs';
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Yamaswap</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template'
+    link: 'https://github.com/yamaswap-labs/docs'
   },
   chat: {
-    link: 'https://x.com/0xkkdemian'
+    link: 'https://x.com/yamaswap'
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/yamaswap-labs/docs',
   footer: {
-    content: 'kk Nextra Docs Template'
+    content: 'Yamaswap'
   }
 };
 
