@@ -32,7 +32,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/yamaswap-labs/docs',
   footer: {
-    content: 'Yamaswap'
+    content: 'Yamaswap© 2025'
   }
 };
 
